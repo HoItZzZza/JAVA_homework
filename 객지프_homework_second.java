@@ -1,6 +1,6 @@
 package practice_2_baekjoon;
 import java.util.Scanner;
-
+//break문 어디서 넣어야할지 확인하기!
 public class Main {
 	static int hero_level, hero_power, hero_hp, hero_defense, hero_mp, hero_experience, hero_money;
 	static int monster_hp, monster_defense, monster_power, monster_mp, monster_level, monster_experience, monster_money;
